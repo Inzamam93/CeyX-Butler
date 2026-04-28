@@ -1,4 +1,4 @@
-# 🌿 CeyloNest
+# 🌿 CeyloNest (Demo project)
 
 > AI-powered hotel guest communication platform — built for Sri Lankan hospitality.
 
@@ -127,6 +127,7 @@ vercel
 
 Set your `VITE_ANTHROPIC_API_KEY` in Vercel's environment variable settings.
 
+Note: This is currently running on a vercel hosted environment: https://ceylo-nest-abzi.vercel.app/
 ### Netlify
 
 ```bash
